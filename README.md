@@ -11,10 +11,9 @@ John Nelson
 
 #### Documentation  
 <!-- * [api docs](http://xyz.com) (API servers) -->
-* [jsdoc](https://johnnelson-401-advanced-javascript.github.io/node-ecosystem/) (Server assignments)
-<!-- * [styleguide](http://xyz.com) (React assignments) -->
+* [jsdoc](https://github.com/johnnelson-401-advanced-javascript/lab-00/wiki/)
 
-### Setup  
+### Setup 
   
 #### `.env` requirements  
 * `PORT` - 3000
